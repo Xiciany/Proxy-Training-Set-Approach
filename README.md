@@ -228,21 +228,6 @@ The benchmark feature set contains **77 feature columns** + 1 label column, orga
 
 ---
 
-## Citation
-
-If you use this code or find our work useful, please cite:
-
-```bibtex
-@article{wang2025proxy,
-  title={An Approach for Unlabeled Social Bot Detection via Proxy Training Set Construction},
-  author={Wang, Jun-Jie and Tang, Ming-Hu},
-  journal={（Journal name to be confirmed）},
-  year={2025}
-}
-```
-
----
-
 ## License
 
 This code is released for **academic research purposes only**.  
