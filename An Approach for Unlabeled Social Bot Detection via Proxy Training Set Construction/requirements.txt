@@ -1,0 +1,7 @@
+# Auto-generated requirements by import analysis
+numpy==1.26.4
+pandas==2.3.3
+sklearn
+xgboost==3.0.1
+# The following packages were not found in current environment, please install manually:
+# sklearn
